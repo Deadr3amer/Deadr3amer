@@ -4,5 +4,3 @@
 - » 「 📦 My public project is the `discord-sliders` npm package - https://www.npmjs.com/package/discord-sliders [you can check it in my repo's page] 」
 - » 「 📝 You can reach me by dm-ing me on Discord - Deadreamer#0001 or by joining my Discord Bot Support Server - https://discord.gg/vRvtnGt82p 」
 - » 「 ⌨️  Currently bored with JavaScript, learning C# and C++... 」
-
-[![Discord Bots](https://top.gg/api/widget/status/845051861509603379.svg)](https://top.gg/bot/845051861509603379)
